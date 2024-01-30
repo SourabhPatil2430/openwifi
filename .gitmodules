@@ -1,6 +1,6 @@
 [submodule "adi-linux"]
 	path = adi-linux
-	url = https://github.com/analogdevicesinc/linux.git
+	url = https://github.com/SourabhPatil2430/local_linux.git
 [submodule "adi-linux-64"]
 	path = adi-linux-64
-	url = https://github.com/analogdevicesinc/linux.git
+	url = https://github.com/SourabhPatil2430/local_linux.git
